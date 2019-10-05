@@ -5,3 +5,5 @@ A simple tool which helps you sync and restart Spotify.
 
 ## Versions
 - Spotify for windows
+### Downloadable files
+https://github.com/Zeczero/SpotifySynchronizer/releases
