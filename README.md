@@ -5,4 +5,4 @@ Some spotify users may face a bug which restricts them from syncing their playli
 ![alt text](https://i.imgur.com/0O2cmnZ.png)
 
 ## Versions
--Spotify for windows
+- Spotify for windows
